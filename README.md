@@ -1,6 +1,6 @@
 # hero
 
-A new Flutter project.
+hi this project learn how to create hero in flutter
 
 ## Getting Started
 
